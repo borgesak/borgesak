@@ -1,9 +1,8 @@
  # Sobre mim
 - 👋 Hi, I’m @borgesak 
-- 👀 meu email de contato é goncalves.gustavo20@escola.pr.gov.br
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- :+1: meu email de contato é goncalves.gustavo20@escola.pr.gov.br
+- 🌱 estou enteressado em aprender a progamar novas linguagens 
+- 💞️ eu estou aprendendo a progamar recentimente a linguagens de JavaScript Scratch
 
 <!---
 borgesak/borgesak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
